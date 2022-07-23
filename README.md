@@ -11,7 +11,6 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
 
 
-
 <hr>
 
 ## Technologies which I use:
