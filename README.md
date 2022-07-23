@@ -10,8 +10,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
 
-<p><a href="https:&#x2F;&#x2F;www.behance.net&#x2F;gallery&#x2F;134149667&#x2F;SOCIAL-MEDIA-2021"><img src="https:&#x2F;&#x2F;mir-s3-cdn-cf.behance.net&#x2F;projects&#x2F;404&#x2F;5771a0134149667.Y3JvcCw5OTksNzgyLDAsMA.png" width="300" /><p>SOCIAL MEDIA | 2021</p></a><a href="https:&#x2F;&#x2F;www.behance.net&#x2F;gallery&#x2F;87574843&#x2F;SMM-Posts-for-INNAB"><img src="https:&#x2F;&#x2F;mir-s3-cdn-cf.behance.net&#x2F;projects&#x2F;404&#x2F;ad488387574843.Y3JvcCw4MDgsNjMyLDAsMA.png" width="300" /><p>SMM Posts for INNAB</p></a><a href="https:&#x2F;&#x2F;www.behance.net&#x2F;gallery&#x2F;63333259&#x2F;Payment-site-land-page"><img src="https:&#x2F;&#x2F;mir-s3-cdn-cf.behance.net&#x2F;projects&#x2F;404&#x2F;3288b463333259.Y3JvcCw4MTAsNjM0LDAsMA.png" width="300" /><p>Payment site land page</p></a></p>
-
+<p><a href="https:&#x2F;&#x2F;www.behance.net&#x2F;gallery&#x2F;134149667&#x2F;SOCIAL-MEDIA-2021"><img src="https:&#x2F;&#x2F;mir-s3-cdn-cf.behance.net&#x2F;projects&#x2F;404&#x2F;5771a0134149667.Y3JvcCw5OTksNzgyLDAsMA.png" width="260" /><p>SOCIAL MEDIA | 2021</p></a><a href="https:&#x2F;&#x2F;www.behance.net&#x2F;gallery&#x2F;87574843&#x2F;SMM-Posts-for-INNAB"><img src="https:&#x2F;&#x2F;mir-s3-cdn-cf.behance.net&#x2F;projects&#x2F;404&#x2F;ad488387574843.Y3JvcCw4MDgsNjMyLDAsMA.png" width="260" /><p>SMM Posts for INNAB</p></a><a href="https:&#x2F;&#x2F;www.behance.net&#x2F;gallery&#x2F;63333259&#x2F;Payment-site-land-page"><img src="https:&#x2F;&#x2F;mir-s3-cdn-cf.behance.net&#x2F;projects&#x2F;404&#x2F;3288b463333259.Y3JvcCw4MTAsNjM0LDAsMA.png" width="260" /><p>Payment site land page</p></a></p>
 
 <hr>
 
