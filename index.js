@@ -49,7 +49,7 @@ async function action() {
 
 	// await firstFunction2();
 
-	await setBehanceProjects();
+	//await setBehanceProjects();
 
   
 	/**
@@ -58,7 +58,7 @@ async function action() {
 	await generateReadMe();
 
 
-	await puppeteerService.close();
+	// await puppeteerService.close();
   }
 
   action();
