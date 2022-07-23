@@ -1,0 +1,23 @@
+{
+  "name": "novruzrhmv",
+  "version": "1.0.0",
+  "description": "[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)\r [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://www.github.com)\r [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://www.gitlab.com)\r [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)](https://bitbucket.org/)\r ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)\r [![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)](https://www.postman.com)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novruzrhmv/novruzrhmv.git"
+  },
+  "author": "novruzrhmv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novruzrhmv/novruzrhmv/issues"
+  },
+  "homepage": "https://github.com/novruzrhmv/novruzrhmv#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "puppeteer": "^15.5.0"
+  }
+}
