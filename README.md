@@ -42,8 +42,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=novruzrhmv&theme=tokyonight)](https://github.com/novruzrhmv)
 [![StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/10311592?theme=dark)](https://stackoverflow.com/users/10311592/novruzrhmv)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=novruzrhmv&theme=tokyonight&border_radius=4)](https://github.com/novruzrhmv)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=novruzrhmv&theme=tokyonight)](https://github.com/novruzrhmv)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=novruzrhmv&layout=compact&theme=tokyonight" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novruzrhmv&count_private=true&theme=tokyonight" />
-
